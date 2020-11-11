@@ -1,22 +1,28 @@
 {
   "name": "TestFF",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "summary": "A short description of TestFF.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/phq8219@qq.com/TestFF",
+  "homepage": "https://github.com/JohnyChina/TestFF.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "phq8219@qq.com": "phq8219@qq.com"
+    "Johny": "phq8219@qq.com"
   },
   "source": {
-    "git": "https://github.com/phq8219@qq.com/TestFF.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/JohnyChina/TestFF.git",
+    "tag": "0.1.5"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "10.0"
   },
-  "source_files": "TestFF/Classes/**/*"
+  "vendored_frameworks": [
+    "TestFF/Classes/HPFunction.framework"
+  ],
+  "frameworks": [
+    "UIKit",
+    "CoreLocation"
+  ]
 }

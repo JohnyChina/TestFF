@@ -7,8 +7,7 @@
 //
 
 #import "TTViewController.h"
-#import "HPAppStatus.h"
-
+#import <HPFunction/HPFunction.h>
 @interface TTViewController ()
 
 @end
