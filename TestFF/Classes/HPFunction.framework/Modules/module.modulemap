@@ -1,0 +1,6 @@
+framework module HPFunction {
+  umbrella header "HPFunction.h"
+
+  export *
+  module * { export * }
+}

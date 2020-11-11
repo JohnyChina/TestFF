@@ -1,0 +1,22 @@
+{
+  "name": "TestFF",
+  "version": "0.1.0",
+  "summary": "A short description of TestFF.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/phq8219@qq.com/TestFF",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "phq8219@qq.com": "phq8219@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/phq8219@qq.com/TestFF.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestFF/Classes/**/*"
+}

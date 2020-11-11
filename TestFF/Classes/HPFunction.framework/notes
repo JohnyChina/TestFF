@@ -1,0 +1,15 @@
+
+ // 应用状态管理类 202011
+ HPAppStatus
+
+ // 应用定位基本服务类 202011
+ HPPositioning
+
+ // 富文本工具类 202011
+ HPRichText
+
+ // 获取UUID、IDFA 202011
+ HPDevice
+
+ // keychain应用 202011
+ HPKeychain
